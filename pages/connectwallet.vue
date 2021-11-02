@@ -5,7 +5,7 @@
         <v-btn class="btn" depressed>
       Logout
     </v-btn>
-    <v-btn  @click.native="onComplete" class="btn">connect Wallet</v-btn >
+    <v-btn  @click.native="onComplete" class="btn">connect ddWallet</v-btn >
      
       
 
